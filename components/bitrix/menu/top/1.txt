@@ -1,0 +1,1095 @@
+Array
+(
+    [ALL_ITEMS] => Array
+        (
+            [1100789609] => Array
+                (
+                    [TEXT] => Компания
+                    [LINK] => /company/
+                    [SELECTED] => 1
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 0
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 1100789609
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 1
+                )
+
+            [2399584538] => Array
+                (
+                    [TEXT] => Руководство
+                    [LINK] => /company/management.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 0
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2399584538
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Руководство
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2421308149] => Array
+                (
+                    [TEXT] => Миссия и стратегия
+                    [LINK] => /company/mission.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 1
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2421308149
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Миссия и стратегия
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [3852005443] => Array
+                (
+                    [TEXT] => История
+                    [LINK] => /company/history.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 2
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 3852005443
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => История
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2709120379] => Array
+                (
+                    [TEXT] => Вакансии
+                    [LINK] => /company/vacancies.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 3
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2709120379
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Вакансии
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2478813668] => Array
+                (
+                    [TEXT] => Новости
+                    [LINK] => /news/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 1
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2478813668
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Новости
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [1225520353] => Array
+                (
+                    [TEXT] => Продукция
+                    [LINK] => /products/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 2
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 1225520353
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Продукция
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [4128972108] => Array
+                (
+                    [TEXT] => Услуги
+                    [LINK] => /services/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 3
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 4128972108
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Услуги
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [188323522] => Array
+                (
+                    [TEXT] => Контакты
+                    [LINK] => /contacts/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 4
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 188323522
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Контакты
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+        )
+
+    [ITEMS_IMG_DESC] => Array
+        (
+            [1100789609] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2399584538] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2421308149] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [3852005443] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2709120379] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2478813668] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [1225520353] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [4128972108] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [188323522] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+        )
+
+    [MENU_STRUCTURE] => Array
+        (
+            [1100789609] => Array
+                (
+                    [1] => Array
+                        (
+                            [2399584538] => Array
+                                (
+                                )
+
+                            [2421308149] => Array
+                                (
+                                )
+
+                            [3852005443] => Array
+                                (
+                                )
+
+                            [2709120379] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [2478813668] => Array
+                (
+                )
+
+            [1225520353] => Array
+                (
+                )
+
+            [4128972108] => Array
+                (
+                )
+
+            [188323522] => Array
+                (
+                )
+
+        )
+
+)
+Array
+(
+    [ALL_ITEMS] => Array
+        (
+            [1100789609] => Array
+                (
+                    [TEXT] => Компания
+                    [LINK] => /company/
+                    [SELECTED] => 1
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 0
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 1100789609
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 1
+                )
+
+            [2399584538] => Array
+                (
+                    [TEXT] => Руководство
+                    [LINK] => /company/management.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 0
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2399584538
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Руководство
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2421308149] => Array
+                (
+                    [TEXT] => Миссия и стратегия
+                    [LINK] => /company/mission.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 1
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2421308149
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Миссия и стратегия
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [3852005443] => Array
+                (
+                    [TEXT] => История
+                    [LINK] => /company/history.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 2
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 3852005443
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => История
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2709120379] => Array
+                (
+                    [TEXT] => Вакансии
+                    [LINK] => /company/vacancies.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 3
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2709120379
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Вакансии
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2478813668] => Array
+                (
+                    [TEXT] => Новости
+                    [LINK] => /news/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 1
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2478813668
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Новости
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [1225520353] => Array
+                (
+                    [TEXT] => Продукция
+                    [LINK] => /products/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 2
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 1225520353
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Продукция
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [4128972108] => Array
+                (
+                    [TEXT] => Услуги
+                    [LINK] => /services/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 3
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 4128972108
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Услуги
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [188323522] => Array
+                (
+                    [TEXT] => Контакты
+                    [LINK] => /contacts/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 4
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 188323522
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Контакты
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+        )
+
+    [ITEMS_IMG_DESC] => Array
+        (
+            [1100789609] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2399584538] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2421308149] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [3852005443] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2709120379] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2478813668] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [1225520353] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [4128972108] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [188323522] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+        )
+
+    [MENU_STRUCTURE] => Array
+        (
+            [1100789609] => Array
+                (
+                    [1] => Array
+                        (
+                            [2399584538] => Array
+                                (
+                                )
+
+                            [2421308149] => Array
+                                (
+                                )
+
+                            [3852005443] => Array
+                                (
+                                )
+
+                            [2709120379] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [2478813668] => Array
+                (
+                )
+
+            [1225520353] => Array
+                (
+                )
+
+            [4128972108] => Array
+                (
+                )
+
+            [188323522] => Array
+                (
+                )
+
+        )
+
+)
+Array
+(
+    [ALL_ITEMS] => Array
+        (
+            [1100789609] => Array
+                (
+                    [TEXT] => Компания
+                    [LINK] => /company/
+                    [SELECTED] => 1
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 0
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 1100789609
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 1
+                )
+
+            [2399584538] => Array
+                (
+                    [TEXT] => Руководство
+                    [LINK] => /company/management.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 0
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2399584538
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Руководство
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2421308149] => Array
+                (
+                    [TEXT] => Миссия и стратегия
+                    [LINK] => /company/mission.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 1
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2421308149
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Миссия и стратегия
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [3852005443] => Array
+                (
+                    [TEXT] => История
+                    [LINK] => /company/history.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 2
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 3852005443
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => История
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2709120379] => Array
+                (
+                    [TEXT] => Вакансии
+                    [LINK] => /company/vacancies.php
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => P
+                    [ITEM_INDEX] => 3
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2709120379
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Компания
+                            [1] => Вакансии
+                        )
+
+                    [DEPTH_LEVEL] => 2
+                    [IS_PARENT] => 
+                )
+
+            [2478813668] => Array
+                (
+                    [TEXT] => Новости
+                    [LINK] => /news/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 1
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 2478813668
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Новости
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [1225520353] => Array
+                (
+                    [TEXT] => Продукция
+                    [LINK] => /products/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 2
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 1225520353
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Продукция
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [4128972108] => Array
+                (
+                    [TEXT] => Услуги
+                    [LINK] => /services/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 3
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 4128972108
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Услуги
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+            [188323522] => Array
+                (
+                    [TEXT] => Контакты
+                    [LINK] => /contacts/
+                    [SELECTED] => 
+                    [PERMISSION] => X
+                    [ADDITIONAL_LINKS] => Array
+                        (
+                        )
+
+                    [ITEM_TYPE] => D
+                    [ITEM_INDEX] => 4
+                    [PARAMS] => Array
+                        (
+                            [item_id] => 188323522
+                            [picture_src] => 
+                            [description] => 
+                        )
+
+                    [CHAIN] => Array
+                        (
+                            [0] => Контакты
+                        )
+
+                    [DEPTH_LEVEL] => 1
+                    [IS_PARENT] => 
+                )
+
+        )
+
+    [ITEMS_IMG_DESC] => Array
+        (
+            [1100789609] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2399584538] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2421308149] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [3852005443] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2709120379] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [2478813668] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [1225520353] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [4128972108] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+            [188323522] => Array
+                (
+                    [PICTURE] => 
+                    [DESC] => 
+                )
+
+        )
+
+    [MENU_STRUCTURE] => Array
+        (
+            [1100789609] => Array
+                (
+                    [1] => Array
+                        (
+                            [2399584538] => Array
+                                (
+                                )
+
+                            [2421308149] => Array
+                                (
+                                )
+
+                            [3852005443] => Array
+                                (
+                                )
+
+                            [2709120379] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [2478813668] => Array
+                (
+                )
+
+            [1225520353] => Array
+                (
+                )
+
+            [4128972108] => Array
+                (
+                )
+
+            [188323522] => Array
+                (
+                )
+
+        )
+
+)
